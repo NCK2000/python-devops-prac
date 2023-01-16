@@ -14,6 +14,9 @@ create development enviroment that is cloud-based:
   *Dockerfile
   *cmd_tool
   *microservice
+
+  1.  create a virtualenv: 'virtualenv ~/.venv'
+  2.  edit '~.bashrc'
   
 ## aws cloudshell
 ## aws cloud9
